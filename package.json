@@ -1,0 +1,25 @@
+{
+  "name": "mock_assessment_two_mock_api",
+  "version": "1.0.0",
+  "description": "This is revision assessment 2 mock data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrakalaM08/mock_assessment_two_mock_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrakalaM08/mock_assessment_two_mock_api/issues"
+  },
+  "homepage": "https://github.com/chandrakalaM08/mock_assessment_two_mock_api#readme",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "nodemon": "^3.0.1"
+  }
+}
